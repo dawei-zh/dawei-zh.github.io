@@ -8,7 +8,7 @@ venue: 'Phys. Rev. D 102, 083008'
 paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.083008'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the potential of detecting smoking gun of dark matter with future X-ray and gamma-ray telescope. 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
