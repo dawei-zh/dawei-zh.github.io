@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please click here to view: [Curriculum Vitae](https://dawei-zh.github.io/files/CV_Dawei_Zhong.pdf)
+Please click here to view: [Curriculum Vitae](https://github.com/dawei-zh/dawei-zh.github.io/blob/main/files/CV_Dawei_Zhong.pdf)
 
 Education
 ======
