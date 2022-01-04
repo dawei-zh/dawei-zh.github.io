@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please click here to view: <a href='https://github.com/dawei-zh/dawei-zh.github.io/blob/main/files/CV-DaweiZhong.pdf'>CV</a>
+Please click here to view the PDF version of my CV: [Curriculum Vitae](https://dawei-zh.github.io/files/CV-DaweiZhong.pdf). Below is a simple version of my background. 
 
 Education
 ======
