@@ -11,10 +11,14 @@ redirect_from:
 Welcome to my homepage. My name is Dawei Zhong and I am a second year PhD student in the Department of Physics & Astronomy at University of Southern California. 
 
 Here is a test for $a+b=c$
+
+
 $$
-a+b=c+d
+(1+x)^{n} = \sum_{k=0}^{n} C^{k}_{n}x^{k}
 $$
 
+
+Kkk
 
 # Others
 
